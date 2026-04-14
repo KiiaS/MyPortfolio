@@ -1,0 +1,26 @@
+body {
+    background-color: #d0e2d0;
+}
+.navbar {
+    display: flex;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+}
+ul li a {
+    display: block;
+    padding: 14px 16px;
+}
+
+h1 {
+    font-family: "Sofia", sans-serif;
+}
+a {
+
+}
+img{
+
+}
